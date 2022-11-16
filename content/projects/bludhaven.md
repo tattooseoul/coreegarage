@@ -1,6 +1,8 @@
 ---
 title: Blüdhaven
 type: page
+image: "images/gokarna.jpg"
+showTableOfContents: true
 ---
 
 ### History
