@@ -1,7 +1,7 @@
 ---
 title: Blüdhaven
 type: page
-image: "/images/gokarna.jpg"
+image: "/images/avatar.webp"
 showTableOfContents: true
 ---
 
